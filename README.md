@@ -12,6 +12,11 @@ Crocheting is a widely practiced craft where designers invest significant time i
 By inputting a 3D model of the desired object, our algorithm converts the digital shape into a detailed crochet pattern by computing point-to-point distances to identify key structural features related to the curvature of the shape. Dynamic programming is then employed to map stitch connections based on crochet techniques, ensuring that the generated pattern accurately represents the input geometry. The resulting instructions guide users in creating a three-dimensional object that closely mirrors the original model.
 
 
+![project_intro](https://github.com/user-attachments/assets/ebd8ced2-4848-49e7-ba25-b256ef2c8607)
+![worm video](https://github.com/user-attachments/assets/26f9be75-b53f-4d7d-a519-919edf43daa4)
+
+
+
 ## Repository Structure
 ------------
                         
