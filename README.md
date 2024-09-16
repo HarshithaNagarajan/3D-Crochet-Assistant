@@ -14,25 +14,25 @@ By inputting a 3D model of the desired object, our algorithm converts the digita
 
 ## Repository Structure
 ------------
-
-    ├── LICENSE                            
-    ├── README.md                           
+                        
     ├── Blender and JSON Files             <- contains the .blend used for slicing and .json files obtained as the output
-    |    ├── worm             
     |    ├── cactus              
     |         ├── cactus_main                
     |         ├── cactus_left
     |         ├── cactus_right
+    |    ├── worm             
     ├── Output                             <- Crochet Pattern outputs generated for the worm and cactus from the algorithm, for a quick preview
-    |    ├── crochet_pattern_worm.txt                           
     |    ├── crochet_pattern_cactus.txt                         
+    |    ├── crochet_pattern_worm.txt                           
     ├── Pattern Synthesis                  <- MAIN: Code that produces the crochet instructions
     |    ├── blender                           
     |         ├── slice_resample_store.py  <- Blender script using Python API that slices a 3D mesh, resamples and stores vertices
     |    ├── src                           <- Python scripts to analyse the vertices, extract shape information in line with crochet techniques and output pattern
-    |         ├── utils.py
     |         ├── dp.py
-    |         ├── write_pattern.py
     |         ├── main.py
+    |         ├── utils.py
+    |         ├── write_pattern.py
+    ├── LICENSE                            
+    ├── README.md   
     ├── requirements.txt                   <- The requirements file for reproducing the analysis environment.
 --------
