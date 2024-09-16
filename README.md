@@ -34,6 +34,5 @@ By inputting a 3D model of the desired object, our algorithm converts the digita
     |         ├── dp.py
     |         ├── write_pattern.py
     |         ├── main.py
-    ├── .gitignore                        
     ├── requirements.txt                   <- The requirements file for reproducing the analysis environment.
 --------
