@@ -13,6 +13,11 @@ By inputting a 3D model of the desired object, our algorithm converts the digita
 
 
 ![project_intro](https://github.com/user-attachments/assets/ebd8ced2-4848-49e7-ba25-b256ef2c8607)
+
+## Example Result
+![worm](https://github.com/user-attachments/assets/b681f199-0911-4ba5-ad9b-db79589cc28e)
+
+
 ![worm video](https://github.com/user-attachments/assets/26f9be75-b53f-4d7d-a519-919edf43daa4)
 
 
